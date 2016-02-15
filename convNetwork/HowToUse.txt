@@ -1,0 +1,30 @@
+%===========GLADOS==========================
+
+1-Run LearningCurves.m file in the cnn folder
+At the end of the execution you should be able to see the learning curve
+(You can change the different parameters and structure in the code to see how it affects the learning curve)
+2-Then run the testCnn.m file in the cnn folder
+You will be able to see how the CNN behave on a batchtest, the intermediate results, the predictions and their comparison with the true labels.
+
+ 
+
+                         #+ @      # #              M#@   "
+                    .    .X  X.%##@;# #   +@#######X. @#%  "
+                      ,==.   ,######M+  -#####%M####M-    #"
+                     :H##M%:=##+ .M##M,;#####/+#######% ,M#"
+                    .M########=  =@#@.=#####M=M#######=  X#"
+                    :@@MMM##M.  -##M.,#######M#######. =  M"
+                                @##..###:.    .H####. @@ X,"
+                      ############: ###,/####;  /##= @#. M "
+                              ,M## ;##,@#M;/M#M  @# X#% X# "
+                   .%=   ######M## ##.M#:   ./#M ,M #M ,#$ "
+                   ##/         $## #+;#: #### ;#/ M M- @# :"
+                   #+ #M@MM###M-;M #:$#-##$H# .#X @ + $#. #"
+                         ######/.: #%=# M#:MM./#.-#  @#: H#"
+                   +,.=   @###: /@ %#,@  ##@X #,-#@.##% .@#"
+                   #####+;/##/ @##  @#,+       /#M    . X, "
+                      ;###M#@ M###H .#M-     ,##M  ;@@; ###"
+                      .M#M##H ;####X ,@#######M/ -M###$  -H"
+                       .M###%  X####H  .@@MM@;  ;@#M@      "
+                         H#M    /@####/      ,++.  / ==-,  "
+"                                  ,=/:, .+X@MMH@#H  #####$="
